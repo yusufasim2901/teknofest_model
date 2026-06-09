@@ -1,0 +1,1 @@
+"""MAS — FastAPI routers subpackage."""

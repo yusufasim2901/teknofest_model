@@ -1,0 +1,1 @@
+"""MAS — Test suite package."""

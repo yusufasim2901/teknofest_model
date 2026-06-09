@@ -1,0 +1,1 @@
+"""MAS — Agent abstractions subpackage."""
